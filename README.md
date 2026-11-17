@@ -6,7 +6,7 @@
 <img src="https://64.media.tumblr.com/1cef55632f84ef55c83bf3feb83c866e/f1cf32801cb8f28c-e4/s1280x1920/f9346ade50ab73c4709bcd09ced2c7a324f3fd43.pnj"  width="330" />
 </p>
 
-<p align="center">
+<h5 align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shantell+Sans&duration=6000&pause=1000&color=9B1138&width=435&lines=%22My+lovely+creations...%22+;%22Strike+them+down.%22)](https://git.io/typing-svg)
 
