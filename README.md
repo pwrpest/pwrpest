@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cee0cda9-1b34-42e7-9a3b-f9c3fdc9797f/dnc6vr2-b1dbe096-adaf-49fc-9976-d411a10ea3f7.png/v1/fill/w_418,h_597/fishii_fishiistixx_on_x_removebg_preview_by_daintymwinii2_dnc6vr2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTk3IiwicGF0aCI6Ii9mL2NlZTBjZGE5LTFiMzQtNDJlNy05YTNiLWY5YzNmZGM5Nzk3Zi9kbmM2dnIyLWIxZGJlMDk2LWFkYWYtNDlmYy05OTc2LWQ0MTFhMTBlYTNmNy5wbmciLCJ3aWR0aCI6Ijw9NDE4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.t6TR49gCs-T3npk4yZvNwMPTFf_7oxvg1_reYMfiyLU" width="300" />
+<img src="https://i.pinimg.com/736x/8c/9a/ed/8c9aed13ad0904de3e2e3d864fe889b7.jpg" width="300" />
 </p>
 
 <p align="center">
