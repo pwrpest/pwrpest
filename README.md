@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shantell+Sans&duration=6000&pause=1000&color=9B1138&width=435&lines=%22My+lovely+creations...%22+;%22Strike+them+down.%22)](https://git.io/typing-svg)
+
+<p align="center">
 <img src="https://i.pinimg.com/736x/8c/9a/ed/8c9aed13ad0904de3e2e3d864fe889b7.jpg" width="300" />
 </p>
 
