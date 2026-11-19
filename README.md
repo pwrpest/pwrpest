@@ -33,6 +33,9 @@ ${\color{#b4c0c9}\text{Currently}}$ ⠀ ${\color{#8e0f0f}\text{busy}}$ ⠀ ${\co
 ${\color{#861b1b}\text{𝕿һіs}}$ ⠀ ${\color{#861b1b}\text{іs}}$ ⠀ ${\color{#b4c0c9}\text{᥆𝖿}}$ ⠀ ${\color{#861b1b}\text{ᥙsᥱᥣᥱss 𝗍᥆ mᥱ.}}$
 
 ${\color{#861b1b}\text{Main}}$ ${\color{#b4c0c9}\text{;}}$ ${\color{#861b1b}\text{nyankit.}}$
+
+${\color{#861b1b}\text{Jealousy\space issues\space}}$
+
   </p>
 
   </div>
