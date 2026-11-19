@@ -34,7 +34,7 @@ ${\color{#861b1b}\text{𝕿һіs}}$ ⠀ ${\color{#861b1b}\text{іs}}$ ⠀ ${\col
 
 ${\color{#861b1b}\text{Main}}$ ${\color{#b4c0c9}\text{;}}$ ${\color{#861b1b}\text{nyankit.}}$
 
-${\color{#861b1b}\text{usually}}$ ${\color{#b4c0c9}\text{;}}$ ${\color{#c+hing}\text{ppl, might c+h}}$
+${\color{#861b1b}\text{usually}}$ ${\color{#b4c0c9}\text{;}}$ ${\color{##861b1b}\text{might c+h}}$
 ${\color{#861b1b}\text{if i like your pony.}}$ 
 
   </p>
